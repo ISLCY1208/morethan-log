@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "0xlcy",
+    name: "slcy",
     image: "/3304802.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Visual designer",
     bio: "🪐Exploring Life, Sharing Insights.",
@@ -12,21 +12,21 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `0xlcyの灵感空间`,
+      name: `slcy的小角落`,
       href: "https://github.com/ISLCY1208/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "0xlcyの灵感空间",
+    title: "slcy的小角落",
     description: "🪐Exploring Life, Sharing Insights",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
   link: "https://slcy.xyz",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  since: 2024, // If leave this empty, current year will be used.
+  lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Web3.0"],
